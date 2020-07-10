@@ -17,4 +17,12 @@ Few friends, maybe more in the future.
 
 Like a person, not active communication. This is my personality.
 
-Blog: [muir.fun](https://muir.fun)
+### Link Me
+
+E-Mail:[i@muir.fun](i@muir.fun)
+
+Telegram:[BecodReyes](https://t.me/BecodReyes)
+
+Github:[BecodReyes](https://github.com/BecodReyes)
+
+Git:[Becod](https://git.muir.fun/Becod)
