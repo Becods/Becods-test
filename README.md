@@ -26,3 +26,13 @@ Telegram:[BecodReyes](https://t.me/BecodReyes)
 Github:[BecodReyes](https://github.com/BecodReyes)
 
 Git:[Becod](https://git.muir.fun/Becod)
+
+Do not provide any chat service with instant chat tools. If you want to contact me, we will not reply unless we are familiar.
+
+For questions about the project or feature requests, please go to the corresponding GIT platform to submit an issue.
+
+No matter you contact me in any way, please describe the problem completely at one time.
+
+If you have any questions, please send to my mailbox.
+
+Thank you for seeing here. At the end, welcome to my blog [muir.fun](https://muir.fun)
