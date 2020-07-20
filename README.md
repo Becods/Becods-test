@@ -15,7 +15,7 @@ Main equipment MECHREVO S1-Pro (i5-8265U MX250 8G 512G+2T) and an All In One (E5
 
 Few friends, maybe more in the future.
 
-Like a person, not active communication. This is my personality.
+Like to be alone, not active communication. This is my personality.
 
 ### Link Me
 
