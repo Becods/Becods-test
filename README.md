@@ -20,7 +20,7 @@ Congratulations on finding here!✨
 [![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
 [![](https://img.shields.io/badge/Debian-10-c70137?style=flat-square&logo=debian&logoColor=ffffff)](https://www.debian.org/)
 [![](https://img.shields.io/badge/Docker-20-0193d7?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
-[![](https://img.shields.io/badge/Proxmox-6-e57000?style=flat-square&logo=proxmox&logoColor=ffffff)](https://proxmox.com/)
+[![](https://img.shields.io/badge/Proxmox-7-e57000?style=flat-square&logo=proxmox&logoColor=ffffff)](https://proxmox.com/)
 
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
 [![](https://img.shields.io/badge/Editor-Markdown-22b5ab?style=flat-square&logo=markdown&logoColor=ffffff)](https://www.markdownguide.org/)
