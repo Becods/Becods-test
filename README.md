@@ -39,7 +39,7 @@ Congratulations on finding here!✨
 [![](https://img.shields.io/badge/-Redis-d92b21?style=flat-square&logo=redis&logoColor=white)](https://redis.io/)
 [![](https://img.shields.io/badge/-MuirWgineX-dd001b?style=flat-square&logoColor=white)](https://muir.fun/)
 
-[](https://raw.githubusercontent.com/Becods/Becods-test/master/github-metrics.svg)
+![](https://raw.githubusercontent.com/Becods/Becods-test/master/github-metrics.svg)
 
 ---
 
